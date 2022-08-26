@@ -181,7 +181,7 @@ if ($Mode0 -eq 'BOOTSTRAP') {
 	Initialize-Repo 'DKUtilPath' 'DKUtil' 'CMakeLists.txt' 'Library/DKUtil' 'https://github.com/gottyduke/DKUtil'
 
 	# SKSETemplatePath
-	Initialize-Repo 'SKSETemplatePath' 'SKSETemplate' 'CMakeLists.txt' 'Plugins/Template' 'https://github.com/gottyduke/Template'
+	Initialize-Repo 'SKSETemplatePath' 'SKSETemplate' 'CMakeLists.txt' 'Plugins/Template' 'https://github.com/gottyduke/Template/tree/fa4c3c24720e9638767f321fc0653e6e237edb37'
 
 	# SkyrimSEPath
 	Find-Game 'SkyrimSEPath' 'Skyrim Special Edition (1.5.97)'
